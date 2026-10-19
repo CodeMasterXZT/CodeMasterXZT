@@ -1,7 +1,6 @@
 ### こんにちは、田中 亮介 (Ryosuke Tanaka) です 👋
 
-Systems Software & Distributed Runtime Engineer based in **Tokyo, Japan** 🇯🇵.  
-Staff Systems Engineer at **[Ribbsaeter Systems](https://ribbsaetersystems.com)**.
+Independent Systems Software & Distributed Runtime Engineer based in **Tokyo, Japan** 🇯🇵.
 
 ---
 
@@ -21,8 +20,5 @@ Staff Systems Engineer at **[Ribbsaeter Systems](https://ribbsaetersystems.com)*
 
 ---
 
-### 📬 Get in Touch
-- **Organization**: [Ribbsaeter Systems](https://github.com/RibbsaeterSystems)
-- **Email**: [press@ribbsaetersystems.com](mailto:press@ribbsaetersystems.com)
-- **Website**: [ribbsaetersystems.com](https://ribbsaetersystems.com)
+### 📬 Contact
 - **Timezone**: JST (UTC+9)
